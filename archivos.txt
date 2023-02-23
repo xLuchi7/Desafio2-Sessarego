@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Monitor Gaming",
+    "description": "240hz 24 pulgadas",
+    "price": "170000",
+    "thumbnail": "https://www.fullh4rd.com.ar/img/productos/Pics_Prod/monitor-gamer-27-benq-zowie-xl2731k-dark-grey-0.jpg",
+    "code": "0",
+    "stock": "15",
+    "id": "0"
+  },
+  {
+    "title": "Mouse Gaming",
+    "description": "Razer Viper Mini",
+    "price": "15000",
+    "thumbnail": "https://app.contabilium.com/files/explorer/7026/Productos-Servicios/concepto-3346007.jpg",
+    "code": "1",
+    "stock": "20",
+    "id": "1"
+  },
+  {
+    "title": "Mando PS4",
+    "description": "Control inalambrico",
+    "price": "12000",
+    "thumbnail": "https://arsonyb2c.vtexassets.com/arquivos/ids/292249/dualshockblack1.jpg?v=637105416256400000",
+    "code": "2",
+    "stock": "12",
+    "id": "2"
+  },
+  {
+    "title": "Auriculares Gaming",
+    "description": "HyperX II Wireless",
+    "price": "15000",
+    "thumbnail": "https://mexx-img-2019.s3.amazonaws.com/auricular-inalambrico_40030_1.jpeg",
+    "code": "3",
+    "stock": "5",
+    "id": "3"
+  }
+]
